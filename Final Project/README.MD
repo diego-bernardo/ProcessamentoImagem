@@ -21,3 +21,6 @@ This project aims to develop an analise that will identify different patterns in
 Below two example of input image. Our system will receive images with skin lesions and will analise texture in order to identify patterns that differentiate malign and benign lesions.
 
 The images used in this project are obtained from SIIM-ISIC Melanoma Classification on Kaggle Platform. [https://www.kaggle.com/c/siim-isic-melanoma- classification] 
+
+
+Presentation: https://www.youtube.com/watch?v=LrXIIM9WSbI&feature=youtu.be
